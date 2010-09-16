@@ -1,2 +1,23 @@
+Smarty Plugins
+
+DESCRIPTION
+
 This is a collection of plugins for the Smarty template engine. Please see each plugin's
 documentation for usage and examples.
+
+INSTALLATION
+
+Place whichever plugins you want to use in your smarty/libs/plugins directory. Plugins
+can then be called using the standard Smarty syntax.
+
+DEPENDENCIES
+
+Smarty template engine - http://smarty.net
+
+All plugins were developed using the Smarty 3.0 engine; however, most, if not all,
+should be fine in earlier versions.
+
+AUTHOR
+
+Karen Ziv <karen@perlessence.com>
+File bug reports at http://github.com/foobarbazquux/Smarty-Plugins/issues
